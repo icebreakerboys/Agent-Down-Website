@@ -2,7 +2,8 @@
 Website to download my current game library!
 
 Agent Down is a 2D Sky Diving game that is as done as it will get. I'm too lazy to add 
-sprites, but there is a un-offical Soleil Carrillo song. Check him out on spotify!
+sprites, but there is a un-offical Soleil Carrillo song. Check him out on Spotify! 
+https://open.spotify.com/artist/3j8IENEldIoR9q7vxFBgqH
 
 Nightmare in Limbo is my new addition to the libaray. It's a text based adventure game, 
 that might get an update later down the line.
