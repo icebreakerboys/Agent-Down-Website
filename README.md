@@ -9,6 +9,7 @@ Nightmare in Limbo is my newest addition to the libaray. It's a text based adven
 that might get an update later down the line.
 
 I plan on making a 2D Platformer over the summer of 2022 that will get posted here. 
-Hopefully we a have a full release by August!
+Hopefully we a have a full release by August! I also plan on overhalling this site durring
+summer as well so stay tuned!
 
 https://icebreakerboys.github.io/Game-Download-Website/
